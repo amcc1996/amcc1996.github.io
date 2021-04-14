@@ -18,7 +18,8 @@ Work in progress
   * Mohr's circle for strain state [[Python script]](mohr_circle_strain_animation.py) [[Video]](https://www.youtube.com/watch?v=nj71Uss4Ork)
   * Demonstration of shear strain in uniaxial loading [[Python script]](shear_strain_demonstration.py) [[Video 1]](https://www.youtube.com/watch?v=FbedFGvaV4A) [[Video 2]](https://www.youtube.com/watch?v=HoF6i8_gSto)
   * Example of a 3D deformation mapping with Mayavi [[Python script]](deformation_3d_mayavi.py) [[Image]](deformation.png)
-  * Computational simulation of plastic yielding and deformation in a cantilever beam [[Video 1]](https://www.youtube.com/watch?v=lvqZ0W7DNO4) [[Video 2]](https://www.youtube.com/watch?v=8rIhrZ6xWvc)
+  * FEM simulation of plastic yielding and deformation in a cantilever beam [[Video 1]](https://www.youtube.com/watch?v=lvqZ0W7DNO4) [[Video 2]](https://www.youtube.com/watch?v=8rIhrZ6xWvc)
+  * FEM simulation of torsion of a circular shaft [[Video]](https://www.youtube.com/watch?v=pjx1IgiZPBI)
 * Useful online resources:
   * The Efficient Engineer Youtube Channel [[Link]](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw)
   * SymBeam: A pedagogical package for bending diagrams
