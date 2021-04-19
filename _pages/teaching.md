@@ -20,6 +20,7 @@ Work in progress
   * Example of a 3D deformation mapping with Mayavi [[Python script]](deformation_3d_mayavi.py) [[Image]](deformation.png)
   * FEM simulation of plastic yielding and deformation in a cantilever beam [[Video 1]](https://www.youtube.com/watch?v=lvqZ0W7DNO4) [[Video 2]](https://www.youtube.com/watch?v=8rIhrZ6xWvc)
   * FEM simulation of torsion of a circular shaft [[Video]](https://www.youtube.com/watch?v=pjx1IgiZPBI)
+  * Torsion of a prismatic shaft with triangular section using Saint-Venant Theory [[MATLAB symbolic script]](problem42.m) [[Python plotting script 1]](problem42Plots.py) [[Python plotting script 2]](problem42PlotsVector.py)
 * Useful online resources:
   * The Efficient Engineer Youtube Channel [[Link]](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw)
   * SymBeam: A pedagogical package for bending diagrams
