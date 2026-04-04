@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "António Manuel Couto Carneiro",
+    "label": "Computational Engineer and Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "antonio.mccarneiro@gmail.com",
+    "phone": "+351 915 215 376",
+    "url": "https://amcc1996.github.io/",
+    "summary": "A rigorous computational engineer with a strong background in mechanical engineering",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,47 +24,148 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Institute of Science and Innovation in Mechanical and Industrial Engineering (INEGI)",
+      "position": "Principal Researcher",
+      "location": "Porto, Portugal",
+      "startDate": "2025-07",
+      "endDate": "Present",
+      "summary": "Developing new computational models toward tribological applications.",
+      "highlights": ["Computational Tribology", "Adhesion", "Friction"]
+    },
+    {
+      "name": "Faculty of Engineering of the University of Porto (FEUP)",
+      "position": "Invited Assistant Professor",
+      "location": "Porto, Portugal",
+      "startDate": "2019-09",
+      "endDate": "Present",
+      "summary": "Lecturing practical classes on Solid Mechanics and Finite Element Method for undergraduate and MSc students.",
+      "highlights": ["Solid Mechanics", "Finite Element Method", "University Education"]
+    },
+    {
+      "name": "Faculty of Engineering of the University of Porto (FEUP)",
+      "position": "Research Assistant (PhD Candidate)",
+      "location": "Porto, Portugal",
+      "startDate": "2020-01",
+      "endDate": "2025-05",
+      "summary": "Multiscale modelling of contact with rough surfaces with finite element models and contact simulation.",
+      "highlights": ["Multiscale Modelling", "Roughness", "Finite Element Method", "Contact Algorithms"]
+    },
+    {
+      "name": "Institute of Science and Innovation in Mechanical and Industrial Engineering (INEGI)",
+      "position": "Junior Research Assistant (MSc Student)",
+      "location": "Porto, Portugal",
+      "startDate": "2019-03",
+      "endDate": "2019-08",
+      "summary": "Implementation of roughness generation algorithms and prediction of real contact area.",
+      "highlights": ["Roughness Generation", "Real Contact Area", "Contact Simulation"]
+    },
+    {
+      "name": "Faculty of Engineering of the University of Porto (FEUP)",
+      "position": "Monitor",
+      "location": "Porto, Portugal",
+      "startDate": "2019-02",
+      "endDate": "2019-07",
+      "summary": "Monitor of the laboratory classes of Solid Mechanics.",
+      "highlights": ["Experimental Mechanics", "Strain Gauges"]
+    },
+    {
+      "name": "Faculty of Engineering of the University of Porto (FEUP)",
+      "position": "Junior Research Assistant",
+      "location": "Porto, Portugal",
+      "startDate": "2017-07",
+      "endDate": "2017-09",
+      "summary": "Numerical investigation of atmospheric wind flows over a forested double-hill terrain using CFD.",
+      "highlights": ["CFD", "Atmospheric Wind Flows", "Forested Terrain"]
+    },
+    {
+      "name": "CETRIB, the Tribology Laboratory of INEGI",
+      "position": "Junior Research Assistant",
+      "location": "Porto, Portugal",
+      "startDate": "2016-02",
+      "endDate": "2016-06",
+      "summary": "Experimental characterisation of grease formulations in terms of film-thickness and friction.",
+      "highlights": ["Film Thickness", "Grease Lubraication", "Ball-on-Disk Testing"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "International Physics Olympiad (IPhO 2018)",
+      "location": "Lisbon, Portugal",
+      "position": "Student Guide",
+      "startDate": "2018-07-21",
+      "endDate": "2018-07-29",
+      "summary": "Guiding the team from Khazakstan during the competition and social activities.",
+      "highlights": ["I was part of the Portuguese team in the IPhO 2014 in Khazakhstan."]
+    },
+    {
+      "organization": "Café/Mercado Souto",
+      "location": "Souto Redondo, Portugal",
+      "position": "Cashier and Waiter",
+      "startDate": "2011-03",
+      "endDate": "2018-09",
+      "summary": "Helping in the family business."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+      "location": "Porto, Portugal",
+      "url": "https://www.fe.up.pt/",
+      "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-02",
+      "endDate": "2025-05",
+      "courses": ["Multiscale Modelling of Contact with Rough Surfaces"]
+    },
+    {
+      "institution": "Faculdade de Engenharia da Universidade do Porto (FEUP)",
+      "location": "Porto, Portugal",
+      "url": "https://www.fe.up.pt/",
+      "area": "Mechanical Engineering",
+      "studyType": "MSc",
+      "startDate": "2014-09",
+      "endDate": "2019-07",
+      "courses": ["Multiscale Modelling of Contact with Rough Surfaces"]
+    },
+    {
+      "institution": "Escola Secundária de Santa Maria da Feira",
+      "location": "Porto, Portugal",
+      "url": "https://www.fe.up.pt/",
+      "area": "Science and Technology",
+      "studyType": "High School",
+      "startDate": "2011-09",
+      "endDate": "2014-06",
+      "score": "19/20"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Nomination to the Pedagogial Excellence Award",
+      "date": "2024 and 2024",
+      "awarder": "Faculdade de Engenharia da Universidade do Porto",
+      "summary": "Nomination attributed to the lecturers with consistent best rankings in the previous 5 years."
+    },
+    {
+      "title": "Excelence Certificate",
+      "date": "2022",
+      "awarder": "Prof. Vladislav A. Yastrebov",
+      "summary": "Award attributed for the student with best performance in the course of Contact Mechanics and Elements of Tribology (CMET)."
+    },
+    {
+      "title": "Honourable Mention",
+      "date": "2014",
+      "awarder": "IPhO 2014"
+    },
+    {
+      "title": "Honourable Mention in the National Physics Olympiad",
+      "date": "2013",
+      "awarder": "Portuguese Physics Society"
+    }
+,
+    {
+      "title": "Bronze medal in the Regional Physics Olympiad (Porto)",
+      "date": "2013",
+      "awarder": "Portuguese Physics Society"
     }
   ],
   "certificates": [
@@ -113,88 +214,154 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Multiscale contact homogenisation through the method of multiscale virtual power: Computational implementation and numerical aspects",
+      "publisher": "Computer Methods in Applied Mechanics and Engineering",
+      "releaseDate": "2025-10-01",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0045782525004189",
+      "summary": "Computer implementation and analyis of the new contact homogenisation framework."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Multiscale contact homogenisation: A novel perspective through the method of multiscale virtual power",
+      "publisher": "Computer Methods in Applied Mechanics and Engineering",
+      "releaseDate": "2024-12-01",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0045782524006492",
+      "summary": "Formulation of multiscale models for contact with roughness, aiming at the unification of existing approaches."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Numerical Simulation",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Finite Element Method",
+        "Contact Mechanics",
+        "Multiscale Modelling",
+        "Roughness",
+        "Multiphysics Simulation"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Object-Oriented Programming",
+        "Design Patterns",
+        "Version Control (Git)",
+        "Automatic documentation"
+      ]
+    },
+    {
+      "name": "High-Performance Computing",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Shared-memory Parallelism (OpenMP)",
+        "Distributed-memory Parallelism (MPI)",
+        "Code profiling"
+      ]
+    },
+    {
+      "name": "DevOps & QA",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Continuous Integration (GitHub Actions)",
+        "Unit Testing",
+        "Code Coverage",
+        "Python Packaging and Deployment"
+      ]
+    },
+    {
+      "name": "Programming Langulages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Fortran",
+        "Python",
+        "C++",
+        "Matlab",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Scientific Stack",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Abaqus",
+        "ParaView",
+        "Gmsh",
+        "Linux",
+        "LaTeX"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Advanced",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computational Mechanics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Finite Element Method",
+        "Computational Contact Mechanics",
+        "Multiscale Modelling",
+        "Multiphysics Simulation",
+        "High-Performnce Computing"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Computer Architecture",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "CPU",
+        "GPU",
+        "Memory Hierarchy",
+        "Computer Networks"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Code optimisation",
+        "Build systems",
+        "Continuous Integration",
+        "Testing"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Running",
+        "Brazzilian Jiu-Jitsu",
+        "Cooking",
+        "Gaming",
+        "One Piece"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "symbeam",
+      "summary": "A pedagogical Python package for bending diagrams",
+      "highlights": ["Bending diagrams", "Symbolic calculations", "Mechanical Engineering"],
+      "startDate": "2020-09-13",
+      "endDate": "Present",
+      "url": "https://github.com/amcc1996/symbeam"
     }
   ]
 }
