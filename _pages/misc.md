@@ -9,7 +9,9 @@ nav_order: 6
 
 Here is some code
 
-```elisp
+{% highlight elisp linenos %}
+
+
 ;======================================================================
 ;; amcc emacs configuration
 ;;======================================================================
@@ -1156,4 +1158,5 @@ respectively."
 (defengine powerthesaurus
   "https://www.powerthesaurus.org/%s/synonyms"
   :keybinding "p")
-```
+
+{% endhighlight %}
