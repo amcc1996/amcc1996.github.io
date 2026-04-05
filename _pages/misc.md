@@ -17,7 +17,7 @@ Here is some code
 ;;======================================================================
 ;; User information
 ;; ----------------
-(setq user-full-name "XXXX)
+(setq user-full-name "XXXX")
 (setq user-mail-address "XXXX")
 ;;======================================================================
 ;; Repositories and packages
