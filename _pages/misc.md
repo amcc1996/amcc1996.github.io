@@ -10,7 +10,7 @@ nav_order: 6
 Here is some code
 
 {% highlight elisp linenos %}
-
+{% raw %}
 
 ;======================================================================
 ;; amcc emacs configuration
@@ -1159,4 +1159,5 @@ respectively."
   "https://www.powerthesaurus.org/%s/synonyms"
   :keybinding "p")
 
+{% endraw %}
 {% endhighlight %}
